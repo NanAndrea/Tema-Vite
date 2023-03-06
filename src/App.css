@@ -1,0 +1,25 @@
+.App {
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.contact > h3,
+.contact > img {
+  text-align: center;
+}
+.contact{
+  background-color: blanchedalmond;
+  padding: 0  2rem;
+
+}
+
+
+.about{
+  padding: 0 2rem;
+  display: flex;
+  
+  flex-direction: column;
+  
+}
